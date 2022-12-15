@@ -1,0 +1,16 @@
+.App {
+  max-width: 1500px;
+  margin: auto;
+  background: white;
+  position: relative;
+  overflow-x: hidden;
+}
+
+.bar{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 10px;
+  width: 100%;
+  background: linear-gradient(to right, blue, skyblue);
+}
